@@ -1,0 +1,8 @@
+
+to create branch--git branch branch_name
+to switch branch-- git checkout branch_name
+
+go to your branch first--git checkout Features-yukta
+then git add, git commit then git pull origin dev then git push origin Features-yukta
+
+then go to azure ---pull requests---

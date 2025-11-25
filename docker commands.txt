@@ -1,0 +1,25 @@
+To delete the docker image-
+docker container rm --force 3ec517926127  (delete its container)
+docker rmi -f fe5008c4c34c (then delete the image, provided is the image id)
+
+To build the docker image-
+docker build -t repo_name .
+
+
+For AWS ECR----
+
+To tag the docker image-
+docker tag repo_name 101135239659.dkr.ecr.us-east-2.amazonaws.com/chatbot-repo:image_name
+
+To push the docker image-
+docker push 101135239659.dkr.ecr.us-east-2.amazonaws.com/chatbot-repo:image_name
+
+
+
+force remove docker image-
+docker rmi -f b5ba4a982932
+
+To run the docker image-
+docker run -t image-name
+
+
