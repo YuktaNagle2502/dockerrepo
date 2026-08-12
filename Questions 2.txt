@@ -1,0 +1,92 @@
+Agile Methodology
+What are backlogs
+Keycloak authentication and jwt
+How to build authentication of our own
+Cookies
+
+
+Project Specific-
+What is Deepface?
+Tensorflow
+Terraform (Infrastructure setup of it)
+Technical challenge faced while developing survey lens app and what is the problem solving approach & technologies invloved 
+
+Python--
+What is embedding
+What is a vector, and why using vector when we can save the chunks
+Semantic search
+Give a prompt example
+Chunking based on no. of characters in gemini, and what is the character limit
+What is GenAI?
+Embedding in vectordb
+Semantic search
+For metadata what keys we can store in vectordb/ If we are querying in vectordb so what kind of metadata we can use
+How metadata will help in reducing scope of search
+Indexing documents in vectordb
+Type of vectordb (like pinecone)
+Opensearch
+RAG implementation --------done
+Query expansion in LLM
+llm usage
+How to retrieve chunks of data in Gemini, and once data is retrieved how to make sure output of llm model matches requirements
+Tracing and saving logs
+langchain used in rag
+role based access in genai
+
+DB-
+Describe a scenario to debug complex issue in data stored and mongodb
+
+
+React JS-
+How to manage states in React?
+useState and useEffect in detail
+setTimeout and setInterval
+Why hooks are used in react
+Why using setCount if we are using count
+Syntax of useEffect
+Use of return function in useEffect
+Write a function which will print the name after 3 sec but it should handle promise in js
+D/f b/w virtual DOM and real DOM
+Caching in react
+useContext api and redux comparison 
+redux toolkit
+rtk query for caching
+ui libraries in react
+adobe library
+talwind css vs normal css
+Search optimization for an ecommerce app, how to reduce backend cost and imporve performance
+Throttling (to limit the frequency of api calls)
+debouncing
+How to manage infinte scrolling in an app 
+
+
+Javascript & NodeJS-
+how nodejs works
+what makes nodejs compare to other backend
+blocking operation in nodejs
+mvc architecture
+microservice architecture and its components, and how microservices communicate
+event streaming technology
+var, let and const
+map, reduce and filter
+arrow functions
+promises, async, await
+closure and its example
+callbacks, event loop
+NodeJS is single threaded then how it can support multi threading environment
+Explain your approach to design and implement Restful APIs using NodeJS and ExpressJS, considering aspects such as error handling, security, and versioning
+Array methods in JS
+Usecase of reduce method
+Given the understanding of event loop phases, consider a scenario where you have a timeout with a delay of 0 offs, an immediate callback, and a pending I/O 
+operation completing simultaneously. In what order would these callbacks be executed by the event loop, and why? Explain reasoning behind the prioritization.
+Different phases of event loop and the purpose of each phase, how does event loop prioritize the execution of tasks in these phases.
+Explain how event loop handles asynchronous operations and how it prevents blocking the main thread
+Create a NodeJS folder structure using express framework, also create basic api  
+
+
+AWS-
+CI/CD pipeline & its infrastructure
+docker, kubernetes, kafka
+Eventbridge
+If using Amazon SQS for synchronous processing of survey responses, suppose the volume of survey responses suddenly spiked, exceeding the capacity of SQS, what to do?
+Caching 
